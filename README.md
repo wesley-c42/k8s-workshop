@@ -1,18 +1,18 @@
 # k8s-workshop
 
-Useful links:
-
-Docker Desktop:
+## Useful links:
+\
+Docker Desktop:  
 https://www.docker.com/products/docker-desktop/
-
-kubectl:
+\
+kubectl:  
 https://kubernetes.io/docs/tasks/tools/
-
-kubectx (changing contexts and namespaces):
+\
+kubectx (changing contexts and namespaces):  
 https://github.com/ahmetb/kubectx
-
-kubectl cheat sheet:
+\
+kubectl cheat sheet:  
 https://kubernetes.io/docs/reference/kubectl/cheatsheet/
-
-Helm:
+\
+Helm:  
 https://helm.sh/
